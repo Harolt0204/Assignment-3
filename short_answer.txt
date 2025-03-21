@@ -1,0 +1,9 @@
+
+Make a Class
+------------
+
+Q1. What’s const-correctness and why is it important?
+A1. It is to mark methods as constants so as not to modify the state of the object and it is important because it allows us to ensure that the data does not change accidentally.
+
+Q2. Is your class const-correct? How do you know?
+A2. Yes is const-correct, mark as const so that it does not modify the data, the method only calls the objects but does not modify them.
